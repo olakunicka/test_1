@@ -1,1 +1,1 @@
-print("hello geoinformatyka z 11 kp 1pl")
+print("hello geoinformatyka z 11 kp 1 pl")
