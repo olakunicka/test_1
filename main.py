@@ -1,1 +1,1 @@
-print("hello BWP-1")
+print("hello Rosomak")
