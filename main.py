@@ -1,1 +1,1 @@
-print("hello geodezja z 11 kp")
+print("hello BWP-1")
