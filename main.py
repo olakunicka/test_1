@@ -1,1 +1,1 @@
-print("hello Rosomak")
+print("geoinf topka!")
